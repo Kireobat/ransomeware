@@ -2,7 +2,7 @@
 
 This is a program that will make actual ransomware for you.
 
-DO NOT use this program on others without their premission because thar is ILLEGAL.
+DO NOT use this program on others without their premission because that is ILLEGAL.
 
 This is only a tool for learning about cryptography and fun.
 
